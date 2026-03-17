@@ -1,0 +1,19 @@
+{
+  "name": "modulo-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --inspect --watch src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^24.12.0",
+    "fastify": "^5.7.4",
+    "nvm": "^0.0.4"
+  }
+}
