@@ -10,3 +10,9 @@ Tecnologias utilizadas:
 - Fastify
 - OpenRouter
 
+Para rodar o projeto:
+
+
+- Comando npm ci pra restabelecer as dependencias.
+- Comando npm start pra rodar o projeto.
+- Criar um arquivo .env com suas secrets de acordo com o exemplo.
